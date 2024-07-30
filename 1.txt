@@ -1,1 +1,5 @@
+secondbranch
 This is my second branchfile
+=======
+lkgjlkdjlksdjflsdjfThis is my firstbranch file
+master
